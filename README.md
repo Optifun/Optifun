@@ -1,3 +1,13 @@
+[![](https://img.shields.io/badge/-@Optifun-%23181717?style=flat-square&logo=github)](https://github.com/Optifun)
+[![](https://img.shields.io/badge/-@dmitry__fr-%23181717?style=flat-square&logo=gitlab)](https://gitlab.com/Optifun)
+[![](https://img.shields.io/badge/--512bd4?style=flat-square&logo=dotnet)]()
+[![](https://img.shields.io/badge/--353535?style=flat-square&logo=unity)]()
+[![](https://img.shields.io/badge/--353535?style=flat-square&logo=javascript)]()
+[![](https://img.shields.io/badge/--353535?style=flat-square&logo=react)]()
+<!--
+[![](https://img.shields.io/badge/--353535?style=flat-square&logo=typescript)]()
+-->
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Optifun's GitHub stats](https://github-readme-stats.vercel.app/api?username=optifun&show_icons=true&theme=material-palenight)
