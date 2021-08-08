@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently study _construction of architecture for Unity Games_
 - 👯 I’m looking for a job in _game development with Unity_
-- 📫 How to reach me on [Telegram](https://t.me/t_optifun)
+- 📫 You can reach me on [Telegram](https://t.me/t_optifun)
 <!--
 **Optifun/Optifun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
