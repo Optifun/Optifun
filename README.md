@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=react)](https://github.com/Optifun)
 
 
-- 🌱 I’m currently studying _Unity development_ and compiller development
+- 🌱 I’m currently studying _Unity development_ and compiler development
 - 👯 I’m looking for a job in _game development with Unity_
 - 📫 You can reach me on [Telegram](https://t.me/t_optifun)
 
