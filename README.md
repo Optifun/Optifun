@@ -8,9 +8,10 @@
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=react)](https://github.com/Optifun)
 
 
-- 🌱 I’m currently study _Unity multiplayer with netcode_
-<!-- - 👯 I’m looking for a job in _game development with Unity_ -->
+- 🌱 I’m currently studying _Unity development_ and compiller development
+- 👯 I’m looking for a job in _game development with Unity_
 - 📫 You can reach me on [Telegram](https://t.me/t_optifun)
+
 <!--
 **Optifun/Optifun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,23 +24,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Stats
+
+## Stats
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Optifun.Optifun" alt="visitor badge"/>
 
 ![Optifun's GitHub stats](https://github-readme-stats.vercel.app/api?username=optifun&show_icons=true&theme=material-palenight)
 
+<!--
+-->
+## Projects
 
-# Projects
-
-## Unity
+### Unity
 [![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=pong-game&cache_seconds=86400&theme=dark)](https://github.com/Optifun/pong-game)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=div-null&repo=Goose-Defence&cache_seconds=86400&theme=dark)](https://github.com/div-null/Goose-Defence)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=div-null&repo=balanceit&cache_seconds=86400&theme=dark)](https://github.com/div-null/balanceit)
 
-## Networking
+### Networking
 [![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=p2p-chat&cache_seconds=86400&theme=dark)](https://github.com/Optifun/p2p-chat)
+<!--
 [![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=p2p-master-server&cache_seconds=86400&theme=dark)](https://github.com/Optifun/p2p-master-server)
-
-## Web
+-->
+### Web
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Web-Explore&repo=Components&cache_seconds=86400&theme=dark)](https://github.com/Web-Explore/Components)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Web-Explore&repo=Environment&cache_seconds=86400&theme=dark)](https://github.com/Web-Explore/Environment)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=ui-kit&cache_seconds=86400&theme=dark)](https://github.com/Optifun/ui-kit)
