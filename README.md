@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=react)](https://github.com/Optifun)
 
 
-- 🌱 I’m currently studying _Unity development_ and compiler development
+- 🌱 I’m currently studying _Unity development_ and _Performance optimization in .NET_
 - 👯 I’m looking for a job in _game development with Unity_
 - 📫 You can reach me on [Telegram](https://t.me/t_optifun)
 
@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=div-null&repo=balanceit&cache_seconds=86400&theme=dark)](https://github.com/div-null/balanceit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=div-null&repo=MissingParts_LostRelicGamesGameJam&cache_seconds=86400&theme=dark)](https://github.com/div-null/MissingParts_LostRelicGamesGameJam)
 
-### Networking
-[![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=p2p-chat&cache_seconds=86400&theme=dark)](https://github.com/Optifun/p2p-chat)
-<!--
-[![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=p2p-master-server&cache_seconds=86400&theme=dark)](https://github.com/Optifun/p2p-master-server)
--->
+### .NET Networking
+[![](https://github-readme-stats.vercel.app/api/pin/?username=div-null&repo=Mirror-template&cache_seconds=86500&theme=dark)](https://github.com/div-null/Mirror-template)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=Unfrozen-networking-test&cache_seconds=86500&theme=dark)](https://github.com/Optifun/Unfrozen-networking-test)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=p2p-chat&cache_seconds=86500&theme=dark)](https://github.com/Optifun/p2p-chat)
+
 ### Web
+[![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=online-shop&cache_seconds=86500&theme=dark)](https://github.com/Optifun/online-shop)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Web-Explore&repo=Components&cache_seconds=86400&theme=dark)](https://github.com/Web-Explore/Components)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Web-Explore&repo=Environment&cache_seconds=86400&theme=dark)](https://github.com/Web-Explore/Environment)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=ui-kit&cache_seconds=86400&theme=dark)](https://github.com/Optifun/ui-kit)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=optifun&repo=pgproject&cache_seconds=86400&theme=dark)](https://github.com/Optifun/pgproject)
