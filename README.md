@@ -7,8 +7,9 @@
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=javascript)](https://github.com/Optifun)
 [![](https://img.shields.io/badge/--353535?style=flat-square&logo=react)](https://github.com/Optifun)
 
-
-- 🌱 I’m currently studying _Unity development_ and _Performance optimization in .NET_
+<!--
+- 🌱 I’m currently studying _ECS architecture_ and _Netcode programming_
+-->
 - 👯 I’m looking for a job in _game development with Unity_
 - 📫 You can reach me on [Telegram](https://t.me/t_optifun)
 
